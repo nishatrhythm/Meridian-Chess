@@ -6,7 +6,7 @@ A refined, modern chess study board and engine built with pure vanilla web stand
 
 ## 🌟 Live Demo
 
-- **URL**: [https://meridian-chess.vercel.app](https://meridian-chess.vercel.app)
+- **URL**: [https://meridian-chess.pages.dev](https://meridian-chess.pages.dev)
 
 ![Meridian Chess Screenshot](Screenshot.png)
 
